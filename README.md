@@ -4,4 +4,4 @@ The Ohio Fighting Game Community is pretty large and separated.  The amount of t
 
 If you think something should be added to the site, get in contact with me here or on [twitter](https://twitter.com/codecory).
 
-You can view the site [here](ohiofgc.com)
+You can view the site [here](https://ohiofgc.com)
