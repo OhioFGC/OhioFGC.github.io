@@ -25,6 +25,11 @@ header{
     display:none;
 }
 
+
+.twitch-link:hover img{
+    transform: scale(1.1);
+}
+
 @media(min-width: 768px){
     .desktop-only{
         display:block;
