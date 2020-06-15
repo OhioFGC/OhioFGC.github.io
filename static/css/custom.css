@@ -25,9 +25,22 @@ header{
     display:none;
 }
 
-
 .twitch-link:hover img{
     transform: scale(1.1);
+}
+
+#twitch-embed{
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+#twitch-embed iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 @media(min-width: 768px){
